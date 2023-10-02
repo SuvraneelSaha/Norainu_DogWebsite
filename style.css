@@ -1,0 +1,63 @@
+body{
+   background-color: #111827;
+   color: #fff;
+   overflow: auto;
+}
+
+.Heading{
+  text-align: center;
+}
+h1{
+  font-family:  'Potta One', cursive;
+}
+
+.Gif{
+  
+}
+
+.dogMarquee{
+  width: 110px;
+  height: auto;
+  
+}
+
+.Marquee {
+  text-align: center;
+}
+
+
+
+.One{
+  text-align: left;
+ 
+  
+}
+
+
+.Three{
+  text-align: left;
+ 
+}
+
+
+
+.dogsize{
+  width: 400px;
+  height: 400px;
+  
+}
+
+.leftDog{
+  margin-left: 100px;
+  margin-top: 100px;
+  margin-right: 400px;
+}
+
+.rightDog{
+  margin-left: 400px;
+  margin-right: 100px;
+}
+
+.right{
+  text-align: right;
+}
